@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact List - YEAR 2025</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 600px;
+            margin: 50px auto;
+            padding: 20px;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 { color: #333; }
+        p { font-size: 18px; }
+        .contact { text-align: left; margin-top: 10px; }
+        .contact b { color: #007BFF; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>YEAR-2025 | B.TECH - ECE</h2>
+        <div class="contact">
+          <h3>2th Semester</h3>  
+            <p><b>Priyanka</b> - 6001600923</p>
+            <p><b>Subhasana</b> - 86388 58668</p>
+            <p><b>Sakil</b> - 93940 54410</p>
+            <p><b>Dhritiman</b> - 97066 56125</p>
+            <p><b>Madhusudan</b> - 8822394814</p>
+            <p><b>Bedanga</b> - 6002552720</p>
+            <p><b>Hirakjyoti</b> - 97065 49828</p>
+            <p><b>Rongsentoshi</b> - 87980 34945</p>
+            <h3>4th Semester</h3>
+            <p><b>Amiya</b> - 92336 62229</p>
+            <p><b>Charlie</b> - 81329 75442</p>
+            <p><b>Amin</b> - 78966 25390</p>
+            <p><b>Ankita</b> - 96785 46646</p>
+            <p><b>Bikram</b> - 93952 44898</p>
+            <p><b>Devraj</b> - 6900 691 204</p>
+            <p><b>Dhrubojyoti</b> - 70055 09639</p>
+            <p><b>Goodson</b> - 76359 49750</p>
+            <p><b>Rayel</b> - 89743 52288</p>
+            <p><b>Rohit</b> - 97166 42488</p>
+            <p><b>Subham</b> - 70998 29406</p>
+            <p><b>Suvrojit</b> - 99575 52530</p>
+            <p><b>Yunyui</b> - 93654 56913</p>
+            <p><b>Kaushik</b> - 94353 07326</p>
+            <p><b>Swarnadip</b> - 98626 54495</p>
+            <h3>6th Semester</h3>
+            <p><b>Bedanta</b> - 99542 50920</p>
+            <p><b>Lakhyajit</b> - 60030 83303</p>
+            <h3>8th Semester</h3>
+            <p><b>Papang</b> - 82589 76081</p>
+            <p><b>Kim</b> - 70059 70805</p>
+            <p><b>Issac</b> - 84158 78195</p>
+            <h3>M.TECH</h3>
+            <p><b>Akashdeep</b> - 98548 30615</p>
+        </div>
+    </div>
+</body>
+</html>
